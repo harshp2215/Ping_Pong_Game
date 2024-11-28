@@ -72,6 +72,6 @@ def main():
     vid.release()
     cv2.destroyAllWindows()
 
-
+# testing
 if __name__ == '__main__':
     main()
