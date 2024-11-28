@@ -1,1 +1,1 @@
-# Ping_Pong_Game
+Use body movements to control the paddle.
